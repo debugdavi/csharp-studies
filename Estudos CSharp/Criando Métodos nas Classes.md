@@ -1,0 +1,5 @@
+- Metodos sao funcoes dentro de classes!!!
+- Quando você criar o método e só precisar dos valores que estão na classe, não é necessário passar parametros, assim você deixa o método sem parametros da seguinte forma:
+	- `public double Area(){
+	- 
+	- }`
